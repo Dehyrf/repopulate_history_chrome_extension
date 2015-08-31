@@ -4,4 +4,4 @@
 -option to clear history + cookies
 -make code + app pretty
 -comment all code
--put on app store
+
