@@ -8,9 +8,5 @@ for (var i = 0, l = sitesList.length; i < l; ++i){
 var tempValue = sitesList[i];
 chrome.history.addUrl({"url": tempValue});
 }
-for (var i = 0, l = sitesList.length; i < l; ++i){
-var tempValue = sitesList[i];
-chrome.history.addUrl({"url": tempValue});
-}
 
 });
